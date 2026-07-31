@@ -107,7 +107,7 @@ if (resultado !== undefined) {
     alert(`O resultado foi ${resultado}`);
 }*/
 
-const usuario = "admin"
+/*const usuario = "admin"
 const senha = 1234
 const digitoUsuario = prompt("Digite o usuario")
 const senhaUsuario = prompt("Digite a senha")
@@ -116,7 +116,9 @@ if (digitoUsuario == usuario && senhaUsuario == senha) {
     alert("Login bem-sucedido")
 } else {
     alert("Acesso negado")
-}
+}*/
+
+
 
 
 
